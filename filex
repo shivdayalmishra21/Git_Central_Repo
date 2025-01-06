@@ -1,1 +1,6 @@
+This file from master branch.
 Hello
+=======
+This file from branch1.
+Hi there.
+>>>>>>> branch1
